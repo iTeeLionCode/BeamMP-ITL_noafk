@@ -1,0 +1,16 @@
+{
+    "vehiclePositionsCheckDelay": 5,
+    "kickAfkPlayers": true,
+    "kickAfkPlayersChecksCount": 60,
+    "kickAfkPlayersNotifyPlayer": true,
+    "kickAfkPlayersNotifyPlayerAfterCount": 50,
+    "kickAfkPlayersWoVehicles": true,
+    "kickAfkPlayersWoVehiclesChecksCount": 120,
+    "kickAfkPlayersWoVehiclesNotifyPlayer": true,
+    "kickAfkPlayersWoVehiclesNotifyPlayerAfterCount": 110,
+    "destroyAbandonedVehicle": true,
+    "destroyAbandonedVehicleChecksCount": 120,
+    "destroyAbandonedVehicleNotifyPlayer": true,
+    "destroyAbandonedVehicleNotifyPlayerAfterCount": 110,
+    "debug": false
+}
